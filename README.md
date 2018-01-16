@@ -8,6 +8,8 @@
  - Видеоуроки от `ITVDN` по [Angular CLI](https://www.youtube.com/playlist?list=PLvItDmb0sZw9yk2HjJgEJfYr4VTr43W19) и [Angular](https://www.youtube.com/playlist?list=PLvItDmb0sZw9VKIWMc2Koq4EMo317tcrL)
  - Видеоуроки от `WebForMySelf`по [Angular](https://www.youtube.com/playlist?list=PLD-piGJ3Dtl2WotoOks4_bWOv5wvrtOG_)
  - Видеоуроки от `SKILLS HEAD` по [Angular](https://www.youtube.com/watch?v=N2nOGXhZdM8) 
+ - Подкаст [`Пятиминутка Angular`](https://www.youtube.com/channel/UCQGzS3MitYnnjTRn2vanOmg/videos) от Алексея Охрименко
+ - Видеозаписи митапов с [`AngularMoscow`](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww/videos)
 
 #### Содержание
 
