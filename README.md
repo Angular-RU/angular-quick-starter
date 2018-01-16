@@ -7,7 +7,7 @@
  - Видеоуроки от `LoftBlog` по [Angular](https://www.youtube.com/playlist?list=PLY4rE9dstrJzlDoCDCKmgD-xv8VwECOtc)
  - Видеоуроки от `ITVDN` по [Angular CLI](https://www.youtube.com/playlist?list=PLvItDmb0sZw9yk2HjJgEJfYr4VTr43W19) и [Angular](https://www.youtube.com/playlist?list=PLvItDmb0sZw9VKIWMc2Koq4EMo317tcrL)
  - Видеоуроки от `WebForMySelf`по [Angular](https://www.youtube.com/playlist?list=PLD-piGJ3Dtl2WotoOks4_bWOv5wvrtOG_)
- - Видеоурок от `SKILLS HEAD` по [Angular](https://www.youtube.com/watch?v=N2nOGXhZdM8) 
+ - Видеоуроки от `SKILLS HEAD` по [Angular](https://www.youtube.com/watch?v=N2nOGXhZdM8) 
 
 #### Содержание
 
