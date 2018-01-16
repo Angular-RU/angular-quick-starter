@@ -9,13 +9,11 @@
  - Видеоуроки от `WebForMySelf`по [Angular](https://www.youtube.com/playlist?list=PLD-piGJ3Dtl2WotoOks4_bWOv5wvrtOG_)
  - Видеоурок от `SKILLS HEAD` по [Angular](https://www.youtube.com/watch?v=N2nOGXhZdM8) 
 
-<br/>
-
 #### Содержание
 
 - **[Быстрый старт](src/first/README.md#%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B5-%D1%88%D0%B0%D0%B3%D0%B8)**
-    - [Зачем нам TypeScript?](#s2_1)
-    - [Шаг 1. Настройка окружения](#s2_2)
+    - [Зачем нам TypeScript?](src/first/README.md#%D0%97%D0%B0%D1%87%D0%B5%D0%BC-%D0%BD%D0%B0%D0%BC-typescript)
+    - [Шаг 1. Настройка окружения](src/first#%D0%A8%D0%B0%D0%B3-2-%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
     - [Шаг 2. Создание нового проекта](#s2_2)
     - [Шаг 3: Запуск веб-приложения в режиме разработки](#s2_3)
     - [Шаг 4: Редактирование своего первого Angular компонента](#s2_5)
