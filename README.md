@@ -1,6 +1,6 @@
 [<img src="https://rawgit.com/brillout/awesome-angular-components/master/angular-logo.svg" align="right" width="131" height="143">](https://github.com/brillout/awesome-angular-components)
 
-# Angular QuickStart
+# Angular QuickStart  [![Angular-RU](https://img.shields.io/badge/Telegram_chat:-Angular_RU-216bc1.svg?style=flat)](https://t.me/angular_ru)
 
  - Официальная документация: [`https://angular.io/guide/quickstart`](https://angular.io/guide/quickstart)
  - Видеоуроки от `CodeDojo` по [Angular](https://www.youtube.com/playlist?list=PLqHlAwsJRxANhhHlAlazVrbX69UMJ9Bcu)
