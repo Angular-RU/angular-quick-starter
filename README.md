@@ -10,6 +10,7 @@
  - Видеоуроки от `SKILLS HEAD` по [Angular](https://www.youtube.com/watch?v=N2nOGXhZdM8) 
  - Подкаст [`Пятиминутка Angular`](https://www.youtube.com/channel/UCQGzS3MitYnnjTRn2vanOmg/videos) от Алексея Охрименко
  - Видеозаписи митапов с [`AngularMoscow`](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww/videos)
+ - Видеозаписи митапов с [`AngularKyiv`](https://www.youtube.com/channel/UCUpLCAi4YTOSUU5kyNGHlfw)
 
 #### Содержание
 
