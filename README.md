@@ -1,4 +1,4 @@
-[<img src="https://rawgit.com/brillout/awesome-angular-components/master/angular-logo.svg" align="right" width="131" height="143">](https://github.com/brillout/awesome-angular-components)
+[<img src="https://rawgit.com/brillout/awesome-angular-components/master/angular-logo.svg" align="right" width="131" height="143">](https://angular.io/guide/quickstart)
 
 # Angular QuickStart  [![Angular-RU](https://img.shields.io/badge/Telegram_chat:-Angular_RU-216bc1.svg?style=flat)](https://t.me/angular_ru)
 
