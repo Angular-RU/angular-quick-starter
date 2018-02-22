@@ -9,6 +9,7 @@
  - Видеоуроки от `Компьютерная школа Hillel` по [Angular](https://www.youtube.com/watch?v=XVzed9zlVfw)
  - Видеоуроки от `WebForMySelf`по [Angular](https://www.youtube.com/playlist?list=PLD-piGJ3Dtl2WotoOks4_bWOv5wvrtOG_)
  - Видеоуроки от `SKILLS HEAD` по [Angular](https://www.youtube.com/watch?v=N2nOGXhZdM8) 
+ - Видеоуроки от `Easy Web` по [Angular](https://www.youtube.com/channel/UCX52gr5pCkqvGejGHOdJByg)
  - Подкаст [`Пятиминутка Angular`](https://www.youtube.com/channel/UCQGzS3MitYnnjTRn2vanOmg/videos) от Алексея Охрименко
  - Видеозаписи митапов с [`AngularMoscow`](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww/videos)
  - Видеозаписи митапов с [`AngularKyiv`](https://www.youtube.com/channel/UCUpLCAi4YTOSUU5kyNGHlfw)
