@@ -2,7 +2,7 @@
 
 # Angular QuickStart  [![Angular-RU](https://img.shields.io/badge/Telegram_chat:-Angular_RU-216bc1.svg?style=flat)](https://t.me/angular_ru)
 
-## Youtube
+### Youtube
 
  - Официальная документация: [`https://angular.io/guide/quickstart`](https://angular.io/guide/quickstart)
  - Видеоуроки от `CodeDojo` по [Angular](https://www.youtube.com/playlist?list=PLqHlAwsJRxANhhHlAlazVrbX69UMJ9Bcu)
@@ -16,14 +16,14 @@
  - Видеозаписи митапов с [`AngularMoscow`](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww/videos)
  - Видеозаписи митапов с [`AngularKyiv`](https://www.youtube.com/channel/UCUpLCAi4YTOSUU5kyNGHlfw)
 
-## Angular-RU полезные ресурсы сообщества
+### Angular-RU: полезные ресурсы сообщества
 
  - [Список ресурсов по Angular (на русском)](https://github.com/Angular-RU/angular-awesome-list)
  - [Вопросы на собеседовании по Angular](https://github.com/Angular-RU/angular-interview-questions)
  - [Разработки сообщества (стартеры, пакеты, etc)](https://github.com/Angular-RU/angular-ru-devs)
  - [Митапы в России](https://github.com/Angular-RU/angular-russia-meetups)
 
-## Содержание
+### Содержание
 
 - **[Быстрый старт](src/first#s1)**
     - [Зачем нам TypeScript?](src/first#s1-1)
