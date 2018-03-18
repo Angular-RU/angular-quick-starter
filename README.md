@@ -22,6 +22,10 @@
  - [Вопросы на собеседовании по Angular](https://github.com/Angular-RU/angular-interview-questions)
  - [Разработки сообщества (стартеры, пакеты, etc)](https://github.com/Angular-RU/angular-ru-devs)
  - [Митапы в России](https://github.com/Angular-RU/angular-russia-meetups)
+ 
+### Angular-RU meetups:
+
+- [Митапы в России (видео, предложение доклада, регистрация)](https://github.com/Angular-RU/angular-russia-meetups)
 
 ### Содержание
 
