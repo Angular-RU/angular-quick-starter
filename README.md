@@ -15,6 +15,7 @@
  - Подкаст [`Пятиминутка Angular`](https://www.youtube.com/channel/UCQGzS3MitYnnjTRn2vanOmg/videos) от Алексея Охрименко
  - Видеозаписи митапов с [`AngularMoscow`](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww/videos)
  - Видеозаписи митапов с [`AngularKyiv`](https://www.youtube.com/channel/UCUpLCAi4YTOSUU5kyNGHlfw)
+ - Детальный обзор angular и рецепты его использования от [learn.javascript.ru](https://learn.javascript.ru/screencast/angular)
 
 ### Angular-RU: полезные ресурсы сообщества
 
