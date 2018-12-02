@@ -2,9 +2,10 @@
 
 # Angular QuickStart  [![Angular-RU](https://img.shields.io/badge/Telegram_chat:-Angular_RU-216bc1.svg?style=flat)](https://t.me/angular_ru)
 
+ - Официальная документация: [`https://angular.io/guide/quickstart`](https://angular.io/guide/quickstart)
+
 ### Youtube
 
- - Официальная документация: [`https://angular.io/guide/quickstart`](https://angular.io/guide/quickstart)
  - Видеоуроки от `CodeDojo` по [Angular](https://www.youtube.com/playlist?list=PLqHlAwsJRxANhhHlAlazVrbX69UMJ9Bcu)
  - Видеоуроки от `LoftBlog` по [Angular](https://www.youtube.com/playlist?list=PLY4rE9dstrJzlDoCDCKmgD-xv8VwECOtc)
  - Видеоуроки от `ITVDN` по [Angular CLI](https://www.youtube.com/playlist?list=PLvItDmb0sZw9yk2HjJgEJfYr4VTr43W19) и [Angular](https://www.youtube.com/playlist?list=PLvItDmb0sZw9VKIWMc2Koq4EMo317tcrL)
